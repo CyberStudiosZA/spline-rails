@@ -143,4 +143,4 @@ After you’ve generated a spline:
 - If spline isn't smooth enough, increase the sample count or manually tweak the spline using the **Spline Tool**.
     
 ---
-[cyberstudios.co.za] []
+[cyberstudios.co.za] [yebo@cyberstudios.co.za]
