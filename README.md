@@ -1,7 +1,3 @@
-Perfect! Thanks for sharing the scripts — it really helps keep the user manual aligned with the actual functionality and naming conventions. Here's the **updated Markdown user manual** based on the scripts you've provided, using the actual class names, serialized field labels, and behaviors.
-
----
-
 # 📘 **SplineRail User Manual** (Unity 6+)
 
 > ⚠️ **Important Requirements:**
